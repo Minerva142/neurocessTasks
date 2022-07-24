@@ -1,0 +1,11 @@
+Requirements:
+    python 3.9
+    matplotlib 3.5.2
+    numpy 1.23.1
+    pandas 1.4.3
+
+pickle için de pycharm üzerinden çalıştıktan sonra, gerekli indirmeleri yapabilirsiniz.
+pickle pip ile yüklemek için biraz problemli, elle hatayı ayıklamak daha kolay.
+
+gerekli dosyalar dataReader.py ile aynı directory de olmalı.
+dataReader.py çalıştırılarak gerekli sonuçlar alınabilir.
