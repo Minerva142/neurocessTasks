@@ -1,0 +1,10 @@
+Requirements(you should use virtual environment with this packages):
+    python 3.9
+    selenium 4.3.0
+    flask
+
+flask kullanarak yaptım.
+Bilgileri almak ve GET'i triggerlamak için /AmazonData directorysine gitmelsiniz (example : http://127.0.0.1:5000/AmazonData).
+app.py dosyasını çalıştırmalısınız, bu directorye gittiğinizde otomatik olarak sayfadan bilgiler çekilip yansıtılacak.
+
+selenium için chromedriver.exe klasörü ekledim.
