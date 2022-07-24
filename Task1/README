@@ -1,4 +1,4 @@
-Requirements(u should use virtual environment with this packages):
+Requirements(you should use virtual environment with this packages):
     python 3.9
     matplotlib 3.5.2
     numpy 1.23.1
